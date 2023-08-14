@@ -11,6 +11,7 @@
 		5ECFEE172A8822B600AB9F34 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ECFEE162A8822B600AB9F34 /* ContentView.swift */; };
 		5ECFEE192A8822B700AB9F34 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5ECFEE182A8822B700AB9F34 /* Assets.xcassets */; };
 		5ECFEE1C2A8822B700AB9F34 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5ECFEE1B2A8822B700AB9F34 /* Preview Assets.xcassets */; };
+		5ECFEE232A8822D100AB9F34 /* MyBigFont.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ECFEE222A8822D100AB9F34 /* MyBigFont.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		5ECFEE162A8822B600AB9F34 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5ECFEE182A8822B700AB9F34 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5ECFEE1B2A8822B700AB9F34 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5ECFEE222A8822D100AB9F34 /* MyBigFont.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyBigFont.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				5ECFEE142A8822B600AB9F34 /* CustomViewModifierTutorialApp.swift */,
 				5ECFEE162A8822B600AB9F34 /* ContentView.swift */,
+				5ECFEE222A8822D100AB9F34 /* MyBigFont.swift */,
 				5ECFEE182A8822B700AB9F34 /* Assets.xcassets */,
 				5ECFEE1A2A8822B700AB9F34 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5ECFEE232A8822D100AB9F34 /* MyBigFont.swift in Sources */,
 				5ECFEE172A8822B600AB9F34 /* ContentView.swift in Sources */,
 				5ECFEE152A8822B600AB9F34 /* CustomViewModifierTutorialApp.swift in Sources */,
 			);
